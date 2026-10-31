@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- Category drawings for lots without a photo. 64x64, drawn in the text colour (currentColor). -->
+  <defs>
+    <style>.a{fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}</style>
+  </defs>
+  <symbol id="truck" viewBox="0 0 64 64"><g class="a">
+    <path d="M5 42V31l7-2 6-9h15v11h21l5 4v7"/><path d="M5 42h6m14 0h14m14 0h6"/>
+    <path d="M20 22h9v9H15z"/><circle cx="18" cy="43" r="6"/><circle cx="46" cy="43" r="6"/></g></symbol>
+  <symbol id="plane" viewBox="0 0 64 64"><g class="a">
+    <path d="M32 5c2 0 3.5 4 3.5 9v34c0 4-1.5 8-3.5 10-2-2-3.5-6-3.5-10V14c0-5 1.5-9 3.5-9z"/>
+    <path d="M28.5 26 7 39v4l21.5-7M35.5 26 57 39v4l-21.5-7M28.5 50 21 55v3l7.5-2M35.5 50 43 55v3l-7.5-2"/></g></symbol>
+  <symbol id="helicopter" viewBox="0 0 64 64"><g class="a">
+    <path d="M8 18h44M30 18v8"/><path d="M16 36c0-6 6-10 14-10h4c6 0 10 4 10 10s-4 9-10 9H24c-5 0-8-4-8-9z"/>
+    <path d="M44 35l14-4M58 25v12M22 51h26M26 45v6M40 45v6"/><path d="M19 34h9v-7"/></g></symbol>
+  <symbol id="boat" viewBox="0 0 64 64"><g class="a">
+    <path d="M5 38h54l-8 12H13z"/><path d="M19 38v-9h16l7 9"/><path d="M27 29V17l10 12"/>
+    <path d="M4 57c5-3 9-3 14 0s9 3 14 0 9-3 14 0 9 3 14 0"/></g></symbol>
+  <symbol id="digger" viewBox="0 0 64 64"><g class="a">
+    <rect x="5" y="44" width="32" height="11" rx="5.5"/><path d="M9 44V30h18v14"/><path d="M13 30v-8h10v8"/>
+    <path d="M27 36l17-20 12 12"/><path d="M56 28l-3 11-9-5z"/></g></symbol>
+  <symbol id="laptop" viewBox="0 0 64 64"><g class="a">
+    <rect x="13" y="13" width="38" height="26" rx="2"/><path d="M6 45h52l-4 6H10z"/><path d="M27 48h10"/></g></symbol>
+  <symbol id="microscope" viewBox="0 0 64 64"><g class="a">
+    <path d="M14 55h36M24 55c0-8 6-12 14-12"/><path d="M42 55V35c0-9-5-15-12-17"/>
+    <path d="M21 9l7-4 11 19-7 4z"/><path d="M27 31h14M19 44h16"/></g></symbol>
+  <symbol id="chair" viewBox="0 0 64 64"><g class="a">
+    <rect x="19" y="7" width="26" height="24" rx="4"/><path d="M15 34h34v6H15z"/><path d="M32 40v8M20 55l12-7 12 7"/>
+    <circle cx="20" cy="56" r="1.5"/><circle cx="44" cy="56" r="1.5"/></g></symbol>
+  <symbol id="wrench" viewBox="0 0 64 64"><g class="a">
+    <path d="M45 7a12 12 0 0 0-12 16L9 47a5 5 0 0 0 7 7l24-24a12 12 0 0 0 16-12l-7 7-7-2-2-7z"/></g></symbol>
+  <symbol id="house" viewBox="0 0 64 64"><g class="a">
+    <path d="M6 30 32 9l26 21"/><path d="M13 25v30h38V25"/><path d="M27 55V40h10v15"/><path d="M43 17V9h6v13"/></g></symbol>
+  <symbol id="lighthouse" viewBox="0 0 64 64"><g class="a">
+    <path d="M24 55l4-34h8l4 34z"/><path d="M25.5 21h13v-8h-13z"/><path d="M24 13l8-7 8 7"/>
+    <path d="M26.5 33h11M25 45h14"/><path d="M42 15l12-5M42 19l12 4M22 15l-12-5M22 19l-12 4"/><path d="M10 55h44"/></g></symbol>
+  <symbol id="horseshoe" viewBox="0 0 64 64"><g class="a" transform="rotate(180 32 32)">
+    <path d="M13 9v21a19 19 0 0 0 38 0V9h-10v21a9 9 0 0 1-18 0V9z"/>
+    <path d="M18 17v2M18 26v2M46 17v2M46 26v2"/></g></symbol>
+  <symbol id="gem" viewBox="0 0 64 64"><g class="a">
+    <path d="M12 23l9-12h22l9 12-20 31z"/><path d="M12 23h40M21 11l6 12 5 31M43 11l-6 12-5 31"/></g></symbol>
+  <symbol id="crate" viewBox="0 0 64 64"><g class="a">
+    <path d="M9 21 32 10l23 11v24L32 56 9 45z"/><path d="M9 21l23 11 23-11M32 32v24"/><path d="M20 15.5l23 11"/></g></symbol>
+  <symbol id="calendar" viewBox="0 0 64 64"><g class="a">
+    <rect x="9" y="13" width="46" height="42" rx="4"/><path d="M9 25h46M21 7v11M43 7v11"/>
+    <path d="M19 34h4M30 34h4M41 34h4M19 44h4M30 44h4"/></g></symbol>
+  <symbol id="bus" viewBox="0 0 64 64"><g class="a">
+    <rect x="6" y="14" width="52" height="30" rx="4"/><path d="M6 26h52M17 14v12M29 14v12M41 14v12"/>
+    <path d="M6 44v4h8M50 48h8v-4"/><circle cx="17" cy="48" r="5"/><circle cx="47" cy="48" r="5"/></g></symbol>
+  <symbol id="firetruck" viewBox="0 0 64 64"><g class="a">
+    <path d="M4 44V27h17l5 7h18v10"/><path d="M44 44h16V30H44"/><path d="M26 22l26-8M30 26l26-8"/>
+    <path d="M10 33h8v-6"/><circle cx="16" cy="46" r="5"/><circle cx="48" cy="46" r="5"/><path d="M21 46h22"/></g></symbol>
+</svg>
